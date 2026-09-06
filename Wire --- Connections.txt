@@ -1,0 +1,23 @@
+DHK Fa0/0 -> Switch0 
+DHK Fa1/0 -> Switch1 
+DHK Se5/0 -> CTG 
+DHK Se2/0 -> KHU 
+DHK Se3/0 -> BAR
+
+CTG Fa1/0 -> Switch2
+CTG Se2/0 -> DHK
+
+RAJ Fa0/0 -> Switch0
+RAJ Fa1/0 -> Switch4
+
+SYL Fa0/0 -> Switch0
+SYL Fa1/0 -> Switch5
+
+BAR Fa0/0 -> Switch6
+BAR Se2/0 -> KHU
+BAR Se3/0 -> DHK
+
+
+KHU Fa0/0 -> Switch3
+KHU Se2/0 -> DHK
+KHU Se3/0 -> BAR
